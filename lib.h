@@ -1,2 +1,2 @@
-int nomi(char a[][20], char b[1][20]);
-
+bool controllo(char lista[10][20], char nome[20], int &c);
+  
